@@ -1,6 +1,8 @@
 # CONTINUAL_LEARNING
 
-tensorflow version - 1.15
+tensorflow version = 1.15
+
+
 python version=3.5
 
 TO run :
